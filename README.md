@@ -16,9 +16,6 @@ I'm anonymous-coder,  with a burning passion for technology and open-source deve
 - 🌍 Contributing to open-source projects and communities.
 - 🎓 Constantly learning new technologies and improving my skills.
 
-## Get in Touch
-- 📬 Reach me via email: coder.4nonymou5@gmail.com
-
 ## Fun Fact
 - 🎮 When I'm not coding, you can find me gaming, exploring new tech trends, or hanging out with friends.
 
