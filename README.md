@@ -6,6 +6,7 @@ I'm anonymous_coder,  with a burning passion for technology and open-source deve
 - 🌟 Teenager with a big dream to make an impact in the tech world.
 - 🛠 Currently learning **Rust** to add to my coding arsenal.
 - 💻 Experienced in **Java**, **C++**, and **Python**.
+- Passion for self hosting.
 
 ## Current Focus
 - 🚀 I'm currently working on some exciting projects that are still in the pipeline. Stay tuned for their public release!
@@ -15,6 +16,7 @@ I'm anonymous_coder,  with a burning passion for technology and open-source deve
 - 🔧 Building cool and useful applications.
 - 🌍 Contributing to open-source projects and communities.
 - 🎓 Constantly learning new technologies and improving my skills.
+- Self hosting applications.
 
 ## Fun Fact
 - 🎮 When I'm not coding, you can find me gaming, exploring new tech trends, or hanging out with friends.
